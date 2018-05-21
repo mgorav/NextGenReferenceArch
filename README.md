@@ -9,8 +9,8 @@
         - MangoDB
         - Postgress
     
-    All of the above application are containerized usig Docker and also used yarn for dependency
-    management. Last but not the lease Hazelcast is used distributed cache. KPI gather using micrometer, 
+    All of the above application are containerized usig Docker and also uses yarn for dependency
+    management. Last but not the lease Hazelcast is used as distributed cache. KPI gather using micrometer, 
     elastic search
     
  ![alt text](./NextGenArchtecture.jpg)    
