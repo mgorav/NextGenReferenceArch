@@ -13,6 +13,8 @@
     management. Last but not the lease Hazelcast is used distributed cache. KPI gather using micrometer, 
     elastic search
     
+ ![alt text](./NextGenArchtecture.jpg)    
+    
  ## Instructions to execute
  
  1. Start service registry
