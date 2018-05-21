@@ -1,10 +1,13 @@
 ## Spring Framework Based Next Gen Mircoservices Based Reference Architeture Impl
 
    This project aims to show the next generation microservices architecture using:
+    
     1. Eureka based service registry using Netflix Zuul [registry](https://github.com/mgorav/serviceregistry)
+    
     2. Gateway with Angular JS 5.0/Type Script using Spring BOOT/Cloud  [blogapp](https://github.com/mgorav/blogapp)
         - Dev env with H2
         - Prod with mysql
+    
     3. [storeapp](https://github.com/mgorav/storeapp) Microservice
         - MangoDB
         - Postgress
